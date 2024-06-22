@@ -12,6 +12,7 @@
 # Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AmanL02/LeetCode/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanL02/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Sliding Window
 |  |
@@ -25,3 +26,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AmanL02/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/AmanL02/LeetCode/tree/master/0231-power-of-two) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AmanL02/LeetCode/tree/master/0231-power-of-two) |
