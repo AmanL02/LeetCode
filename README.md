@@ -6,6 +6,7 @@
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanL02/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmanL02/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1552-build-an-array-with-stack-operations](https://github.com/AmanL02/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmanL02/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Hash Table
 |  |
@@ -62,3 +63,11 @@
 |  |
 | ------- |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmanL02/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+# Stack
+|  |
+| ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/AmanL02/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+# Simulation
+|  |
+| ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/AmanL02/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
