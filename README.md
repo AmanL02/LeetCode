@@ -87,20 +87,32 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AmanL02/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/AmanL02/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AmanL02/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/AmanL02/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AmanL02/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/AmanL02/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AmanL02/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/AmanL02/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AmanL02/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanL02/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/AmanL02/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/AmanL02/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
