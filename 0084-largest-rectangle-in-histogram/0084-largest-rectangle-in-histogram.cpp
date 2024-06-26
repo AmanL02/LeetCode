@@ -1,82 +1,56 @@
 class Solution {
 public:
-    int largestRectangleArea(vector<int>& heights) {
-        int n = heights.size();
-        vector<int> indexR(n);
-        vector<int> indexL(n);
-        vector<int> res(n);
-        indexR = NSR(heights);
-        indexL = NSL(heights);
-        for(int i = 0; i < n; i++){
-            res[i] = (indexR[i] - indexL[i] - 1) * heights[i];
-        }
-        int max = 0;
-        for(int i = 0; i < n; i++){
-            if(res[i] > max)
-            {
-                max = res[i];
+    int largestRectangleArea(vector<int>& arr) {
+        int n = arr.size();
+        vector<int> right;
+        vector<int> left;
+        stack<pair<int, int>> sr;
+        stack<pair<int, int>> sl;
+        for (int i = n - 1; i >= 0; i--) {
+            if (sr.size() == 0) {
+                right.push_back(n);
+            } else if (sr.size() > 0 && sr.top().first < arr[i]) {
+                right.push_back(sr.top().second);
+            } else if (sr.size() > 0 && sr.top().first >=arr[i]) {
+                while (sr.size() > 0 && sr.top().first >=arr[i]) {
+                    sr.pop();
+                }
+                if (sr.size() == 0) {
+                    right.push_back(n);
+                } else {
+                    right.push_back(sr.top().second);
+                }
             }
+            sr.push({arr[i], i});
         }
-        return max;
+        reverse(right.begin(), right.end());
+        for (int i = 0; i < n; i++) {
+            if (sl.size() == 0) {
+                left.push_back(-1);
+            } else if (sl.size() > 0 && sl.top().first < arr[i]) {
+                left.push_back(sl.top().second);
+            } else if (sl.size() > 0 && sl.top().first >= arr[i]) {
+                while (sl.size() > 0 && sl.top().first >=arr[i]) {
+                    sl.pop();
+                }
+                if (sl.size() == 0) {
+                    left.push_back(-1);
+                } else {
+                    left.push_back(sl.top().second);
+                }
+            }
+            sl.push({arr[i], i});
+        }
+        vector<int> width(n);
+        for (int i = 0; i < n; i++) {
+            width[i] = right[i] - left[i] - 1;
+        }
+        int ans = 0;
+        for (int i = 0; i < n; i++) {
+            arr[i] = arr[i] * width[i];
+            ans = max(ans, arr[i]);
+        }
+        return ans;
     }
-
-    vector<int> NSR(vector<int> h){
-        stack<pair<int,int>> st;
-        int n = h.size();
-        vector<int> index(n);
-        for(int i = n - 1; i >= 0; i--){
-            if(st.empty()){
-                st.push({h[i],i});
-                index[i] = n;
-            }
-            else if(st.top().first < h[i]){
-                index[i] = st.top().second;
-                st.push({h[i],i});
-            }
-            else if(st.top().first >= h[i]){
-                while(!st.empty() && st.top().first >= h[i]){
-                    st.pop();
-                }
-                if(st.empty()){
-                    st.push({h[i],i});
-                    index[i] = n;
-                }
-                else if(st.top().first < h[i]){
-                    index[i] = st.top().second;
-                    st.push({h[i],i});
-                }
-            }
-        }
-        return index;
-    }
-
-        vector<int> NSL(vector<int> h){
-        stack<pair<int,int>> st;
-        int n = h.size();
-        vector<int> index(n);
-        for(int i = 0; i < n; i++){
-            if(st.empty()){
-                st.push({h[i],i});
-                index[i] = -1;
-            }
-            else if(st.top().first < h[i]){
-                index[i] = st.top().second;
-                st.push({h[i],i});
-            }
-            else if(st.top().first >= h[i]){
-                while(!st.empty() && st.top().first >= h[i]){
-                    st.pop();
-                }
-                if(st.empty()){
-                    st.push({h[i],i});
-                    index[i] = -1;
-                }
-                else if(st.top().first < h[i]){
-                    index[i] = st.top().second;
-                    st.push({h[i],i});
-                }
-            }
-        }
-        return index;
-    }
-};
+}
+;
