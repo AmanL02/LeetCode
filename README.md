@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AmanL02/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AmanL02/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AmanL02/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanL02/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmanL02/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AmanL02/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AmanL02/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AmanL02/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanL02/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 # Simulation
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AmanL02/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AmanL02/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanL02/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 # Divide and Conquer
 |  |
@@ -116,3 +119,11 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/AmanL02/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/AmanL02/LeetCode/tree/master/0085-maximal-rectangle) |
+# Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/AmanL02/LeetCode/tree/master/0085-maximal-rectangle) |
