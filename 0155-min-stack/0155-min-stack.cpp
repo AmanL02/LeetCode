@@ -1,34 +1,57 @@
+#include <stack>
+using namespace std;
+
 class MinStack {
 public:
-    stack<int> st;
-    stack<int> s;
+    long long min_element;
+    stack<long long> s;
+
     MinStack() {
-
+        min_element = LLONG_MAX;
     }
-
+    
     void push(int val) {
-        s.push(val);
-        if (st.size() == 0 || st.top() >= val) {
-            st.push(val);
+        if (s.empty()) {
+            s.push(val);
+            min_element = val;
+        } else {
+            if (val >= min_element) {
+                s.push(val);
+            } else {
+                s.push(2LL * val - min_element);
+                min_element = val;
+            }
         }
     }
-
+    
     void pop() {
-        int temp = s.top();
-        s.pop();
-        if (st.top() == temp) {
-            st.pop();
+        if (s.empty()) return;
+
+        if (s.top() >= min_element) {
+            s.pop();
+        } else {
+            min_element = 2 * min_element - s.top();
+            s.pop();
+        }
+        
+        if (s.empty()) {
+            min_element = LLONG_MAX;
         }
     }
-
+    
     int top() {
-        return s.top();
-    }
+        if (s.empty()) return -1;
 
+        if (s.top() >= min_element) {
+            return s.top();
+        } else {
+            return min_element;
+        }
+    }
+    
     int getMin() {
-        if (st.size() == 0)
-            return -1;
-        return st.top();
+        if (s.empty()) return -1;
+        return min_element;
     }
 };
 
