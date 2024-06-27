@@ -53,6 +53,7 @@
 # Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AmanL02/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AmanL02/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmanL02/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Heap (Priority Queue)
@@ -78,6 +79,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AmanL02/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AmanL02/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/AmanL02/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/AmanL02/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AmanL02/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanL02/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 # Simulation
@@ -144,3 +146,4 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AmanL02/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/AmanL02/LeetCode/tree/master/0225-implement-stack-using-queues) |
