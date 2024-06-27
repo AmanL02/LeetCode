@@ -77,6 +77,7 @@
 | [0042-trapping-rain-water](https://github.com/AmanL02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AmanL02/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AmanL02/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/AmanL02/LeetCode/tree/master/0155-min-stack) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AmanL02/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanL02/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 # Simulation
@@ -139,3 +140,7 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/AmanL02/LeetCode/tree/master/1916-find-center-of-star-graph) |
+# Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AmanL02/LeetCode/tree/master/0155-min-stack) |
