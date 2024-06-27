@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanL02/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/AmanL02/LeetCode/tree/master/0020-valid-parentheses) |
 # Queue
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AmanL02/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AmanL02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AmanL02/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AmanL02/LeetCode/tree/master/0085-maximal-rectangle) |
