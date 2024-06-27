@@ -135,3 +135,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AmanL02/LeetCode/tree/master/0042-trapping-rain-water) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/AmanL02/LeetCode/tree/master/1916-find-center-of-star-graph) |
