@@ -9,6 +9,7 @@
 | [0085-maximal-rectangle](https://github.com/AmanL02/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/AmanL02/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmanL02/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/AmanL02/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/AmanL02/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AmanL02/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanL02/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -91,12 +92,14 @@
 | [0232-implement-queue-using-stacks](https://github.com/AmanL02/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AmanL02/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmanL02/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/AmanL02/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/AmanL02/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AmanL02/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanL02/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 # Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/AmanL02/LeetCode/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AmanL02/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 # Prefix Sum
 |  |
