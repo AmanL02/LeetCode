@@ -192,10 +192,12 @@
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AmanL02/LeetCode/tree/master/0402-remove-k-digits) |
 | [2227-sum-of-subarray-ranges](https://github.com/AmanL02/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AmanL02/LeetCode/tree/master/0402-remove-k-digits) |
 | [2227-sum-of-subarray-ranges](https://github.com/AmanL02/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Union Find
 |  |
@@ -205,4 +207,12 @@
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/AmanL02/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AmanL02/LeetCode/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AmanL02/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
