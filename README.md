@@ -188,6 +188,7 @@
 ## Array
 |  |
 | ------- |
+| [1293-three-consecutive-odds](https://github.com/AmanL02/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [2227-sum-of-subarray-ranges](https://github.com/AmanL02/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Stack
 |  |
