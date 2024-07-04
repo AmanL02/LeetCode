@@ -242,4 +242,12 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/AmanL02/LeetCode/tree/master/0940-fruit-into-baskets) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/AmanL02/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/AmanL02/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
