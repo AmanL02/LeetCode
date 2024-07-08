@@ -1,15 +1,17 @@
 class Solution {
 public:
     int findTheWinner(int n, int k) {
-        vector<int> ans;
+        queue <int> que;
         for(int i=1;i<=n;i++){
-            ans.push_back(i);
+            que.push(i);
         }
-        int i=0;
-        while(ans.size()>1){
-            i=(i+k-1)%ans.size();
-            ans.erase(ans.begin()+i);
+        while(que.size()>1){
+            for(int j=1;j<=k-1;j++){
+                que.push(que.front());
+                que.pop();
+            }
+            que.pop();
         }
-        return ans[0];
+        return que.front();
     }
 };
