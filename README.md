@@ -192,6 +192,7 @@
 | [0940-fruit-into-baskets](https://github.com/AmanL02/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/AmanL02/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AmanL02/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/AmanL02/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/AmanL02/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AmanL02/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/AmanL02/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AmanL02/LeetCode/tree/master/0402-remove-k-digits) |
+| [1720-crawler-log-folder](https://github.com/AmanL02/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2227-sum-of-subarray-ranges](https://github.com/AmanL02/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -218,6 +220,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/AmanL02/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanL02/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1720-crawler-log-folder](https://github.com/AmanL02/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Greedy
 |  |
 | ------- |
