@@ -200,6 +200,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AmanL02/LeetCode/tree/master/0402-remove-k-digits) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AmanL02/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AmanL02/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2227-sum-of-subarray-ranges](https://github.com/AmanL02/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -220,6 +221,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/AmanL02/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanL02/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AmanL02/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanL02/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/AmanL02/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Greedy
