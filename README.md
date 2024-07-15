@@ -196,6 +196,7 @@
 | [1803-average-waiting-time](https://github.com/AmanL02/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AmanL02/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/AmanL02/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AmanL02/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/AmanL02/LeetCode/tree/master/2846-robot-collisions) |
 ## Stack
 |  |
@@ -244,6 +245,7 @@
 | [0726-number-of-atoms](https://github.com/AmanL02/LeetCode/tree/master/0726-number-of-atoms) |
 | [0940-fruit-into-baskets](https://github.com/AmanL02/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanL02/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AmanL02/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -293,4 +295,12 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AmanL02/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AmanL02/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AmanL02/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
