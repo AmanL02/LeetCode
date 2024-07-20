@@ -195,6 +195,7 @@
 | [1293-three-consecutive-odds](https://github.com/AmanL02/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AmanL02/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AmanL02/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AmanL02/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/AmanL02/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/AmanL02/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AmanL02/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -240,6 +241,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/AmanL02/LeetCode/tree/master/0402-remove-k-digits) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AmanL02/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AmanL02/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AmanL02/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Hash Table
 |  |
@@ -325,6 +327,7 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AmanL02/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AmanL02/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
