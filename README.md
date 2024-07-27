@@ -188,6 +188,7 @@
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/AmanL02/LeetCode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanL02/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmanL02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AmanL02/LeetCode/tree/master/0455-assign-cookies) |
@@ -253,6 +254,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/AmanL02/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/AmanL02/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AmanL02/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/AmanL02/LeetCode/tree/master/0621-task-scheduler) |
