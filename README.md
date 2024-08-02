@@ -209,6 +209,7 @@
 | [1803-average-waiting-time](https://github.com/AmanL02/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AmanL02/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/AmanL02/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmanL02/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AmanL02/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AmanL02/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/AmanL02/LeetCode/tree/master/2502-sort-the-people) |
@@ -314,6 +315,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/AmanL02/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/AmanL02/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanL02/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AmanL02/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Linked List
 |  |
 | ------- |
