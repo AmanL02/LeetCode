@@ -194,6 +194,7 @@
 | [0455-assign-cookies](https://github.com/AmanL02/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/AmanL02/LeetCode/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/AmanL02/LeetCode/tree/master/0890-lemonade-change) |
+| [0921-spiral-matrix-iii](https://github.com/AmanL02/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/AmanL02/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/AmanL02/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/AmanL02/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -342,6 +343,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/AmanL02/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/AmanL02/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/AmanL02/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AmanL02/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -418,6 +420,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/AmanL02/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AmanL02/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AmanL02/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AmanL02/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
