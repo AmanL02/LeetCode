@@ -198,6 +198,7 @@
 | [0921-spiral-matrix-iii](https://github.com/AmanL02/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/AmanL02/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/AmanL02/LeetCode/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/AmanL02/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/AmanL02/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmanL02/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/AmanL02/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -243,6 +244,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/AmanL02/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/AmanL02/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph
 |  |
@@ -291,6 +293,7 @@
 | [0726-number-of-atoms](https://github.com/AmanL02/LeetCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/AmanL02/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/AmanL02/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0999-regions-cut-by-slashes](https://github.com/AmanL02/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmanL02/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanL02/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -416,6 +419,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AmanL02/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AmanL02/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/AmanL02/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmanL02/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AmanL02/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -425,6 +429,7 @@
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/AmanL02/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AmanL02/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/AmanL02/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AmanL02/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AmanL02/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AmanL02/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -490,6 +495,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AmanL02/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmanL02/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/AmanL02/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AmanL02/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
