@@ -194,6 +194,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmanL02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AmanL02/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/AmanL02/LeetCode/tree/master/0621-task-scheduler) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/AmanL02/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/AmanL02/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/AmanL02/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/AmanL02/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -310,11 +311,13 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmanL02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AmanL02/LeetCode/tree/master/0455-assign-cookies) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/AmanL02/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AmanL02/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmanL02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/AmanL02/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AmanL02/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -323,6 +326,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmanL02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AmanL02/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/AmanL02/LeetCode/tree/master/0621-task-scheduler) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/AmanL02/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/AmanL02/LeetCode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/AmanL02/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
