@@ -193,6 +193,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanL02/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmanL02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AmanL02/LeetCode/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/AmanL02/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/AmanL02/LeetCode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/AmanL02/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AmanL02/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -501,6 +502,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AmanL02/LeetCode/tree/master/0542-01-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/AmanL02/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AmanL02/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AmanL02/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -559,6 +561,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmanL02/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/AmanL02/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0542-01-matrix](https://github.com/AmanL02/LeetCode/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/AmanL02/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/AmanL02/LeetCode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/AmanL02/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -583,6 +586,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmanL02/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AmanL02/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/AmanL02/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AmanL02/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanL02/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/AmanL02/LeetCode/tree/master/0999-regions-cut-by-slashes) |
