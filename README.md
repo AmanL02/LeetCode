@@ -283,6 +283,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/AmanL02/LeetCode/tree/master/0127-word-ladder) |
 | [0273-integer-to-english-words](https://github.com/AmanL02/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/AmanL02/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanL02/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -316,6 +317,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/AmanL02/LeetCode/tree/master/0127-word-ladder) |
 | [0264-ugly-number-ii](https://github.com/AmanL02/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmanL02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanL02/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -596,6 +598,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AmanL02/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmanL02/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/AmanL02/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/AmanL02/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/AmanL02/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/AmanL02/LeetCode/tree/master/0542-01-matrix) |
