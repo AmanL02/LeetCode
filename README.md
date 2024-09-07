@@ -395,6 +395,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmanL02/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1484-linked-list-in-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AmanL02/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AmanL02/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmanL02/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -465,6 +466,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmanL02/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmanL02/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AmanL02/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AmanL02/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AmanL02/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -496,6 +498,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AmanL02/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmanL02/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AmanL02/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AmanL02/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AmanL02/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -529,6 +532,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/AmanL02/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmanL02/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AmanL02/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AmanL02/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AmanL02/LeetCode/tree/master/2035-count-sub-islands) |
@@ -641,6 +645,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AmanL02/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AmanL02/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1484-linked-list-in-binary-tree](https://github.com/AmanL02/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AmanL02/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AmanL02/LeetCode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AmanL02/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
