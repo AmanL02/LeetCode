@@ -301,6 +301,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/AmanL02/LeetCode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/AmanL02/LeetCode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AmanL02/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AmanL02/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/AmanL02/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanL02/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -439,6 +440,7 @@
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AmanL02/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AmanL02/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/AmanL02/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/AmanL02/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -454,6 +456,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AmanL02/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AmanL02/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AmanL02/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -631,6 +634,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmanL02/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AmanL02/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AmanL02/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0542-01-matrix](https://github.com/AmanL02/LeetCode/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/AmanL02/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -742,4 +746,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmanL02/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AmanL02/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
