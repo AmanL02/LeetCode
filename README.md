@@ -786,4 +786,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AmanL02/LeetCode/tree/master/0214-shortest-palindrome) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/AmanL02/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
